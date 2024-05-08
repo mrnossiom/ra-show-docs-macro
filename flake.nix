@@ -51,6 +51,8 @@
               pkg-config
               rust-toolchain
               act
+
+              cargo-expand
             ];
             buildInputs = with pkgs; [ ];
 
