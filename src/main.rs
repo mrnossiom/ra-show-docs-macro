@@ -1,5 +1,6 @@
 fn main() {}
 
+/// Some placeholder documentation
 #[tracing::instrument]
 fn foobar() {
 	// ↑↑ Hover or trigger docs on `foobar`
